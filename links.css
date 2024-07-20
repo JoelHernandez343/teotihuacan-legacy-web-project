@@ -21,8 +21,6 @@
 .navegacion a:active {
     background-color: none;
 }
-#historia-link a {
-}
 #historia-link a:link {
     background-image: url(objetos/links-menu-bien/hist.png);
 }
@@ -32,10 +30,6 @@
 #historia-link a:hover {
     background-color: none;
     background-image: url(objetos/links-menu-bien/histbn.png);
-}
-#historia-link a:active {
-}
-#geografia-link a {
 }
 #geografia-link a:link {
     background-image: url(objetos/links-menu-bien/geo.png);
@@ -47,10 +41,6 @@
     background-color: none;
     background-image: url(objetos/links-menu-bien/geobn.png);
 }
-#geografia-link a:active {
-}
-#org-social-link a {
-}
 #org-social-link a:link {
     background-image: url(objetos/links-menu-bien/os.png);
 }
@@ -60,10 +50,6 @@
 #org-social-link a:hover {
     background-color: none;
     background-image: url(objetos/links-menu-bien/osbn.png);
-}
-#org-social-link a:active {
-}
-#gobierno-link a {
 }
 #gobierno-link a:link {
     background-image: url(objetos/links-menu-bien/gob.png);
@@ -75,10 +61,6 @@
     background-color: none;
     background-image: url(objetos/links-menu-bien/gobbn.png);
 }
-#gobierno-link a:active {
-}
-#economia-link a {
-}
 #economia-link a:link {
     background-image: url(objetos/links-menu-bien/eco.png);
 }
@@ -88,10 +70,6 @@
 #economia-link a:hover {
     background-color: none;
     background-image: url(objetos/links-menu-bien/ecobn.png);
-}
-#economia-link a:active {
-}
-#religion-link a {
 }
 #religion-link a:link {
     background-image: url(objetos/links-menu-bien/rel.png);
@@ -103,10 +81,6 @@
     background-color: none;
     background-image: url(objetos/links-menu-bien/relbn.png);
 }
-#religion-link a:active {
-}
-#pluna-link a {
-}
 #pluna-link a:link {
     background-image: url(objetos/links-menu-bien/pluna.png);
 }
@@ -116,10 +90,6 @@
 #pluna-link a:hover {
     background-color: none;
     background-image: url(objetos/links-menu-bien/plunabn.png);
-}
-#pluna-link a:active {
-}
-#pquetzal-link a {
 }
 #pquetzal-link a:link {
     background-image: url(objetos/links-menu-bien/pqtz.png);
@@ -131,10 +101,6 @@
     background-color: none;
     background-image: url(objetos/links-menu-bien/pqtzbn.png);
 }
-#pquetzal-link a:active {
-}
-#sol-link a {
-}
 #sol-link a:link {
     background-image: url(objetos/links-menu-bien/psol.png);
 }
@@ -145,10 +111,6 @@
     background-color: none;
     background-image: url(objetos/links-menu-bien/psolbn.png);
 }
-#sol-link a:active {
-}
-#pri-link a {
-}
 #pri-link a:link {
     background-image: url(objetos/links-menu-bien/pp.png);
 }
@@ -158,8 +120,6 @@
 #pri-link a:hover {
     background-color: none;
     background-image: url(objetos/links-menu-bien/ppbn.png);
-}
-#pri-link a:active {
 }
 #menu a {
     color: black;
@@ -181,8 +141,6 @@
     background-color: none;
     font-weight: bold;
 }
-#menu a:active {
-}
 #pie a {
     color: black;
     text-decoration: none;
@@ -202,6 +160,4 @@
     text-decoration: none;
     background-color: none;
     font-weight: bold;
-}
-#pie a:active {
 }
