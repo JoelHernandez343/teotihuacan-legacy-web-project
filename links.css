@@ -1,0 +1,65 @@
+.navegacion a{height:80px;width:80px;color:black;text-decoration:none;display:block;font-size:10.5pt; line-height:115%; font-family:Segoe UI;font-weight:bold;}
+																									.navegacion a:link{background-color:none;}
+																									.navegacion a:visited{background-color:none;}
+																									.navegacion a:hover {background-color:none;}
+																									.navegacion a:active{background-color:none;}
+#historia-link a{}
+																									#historia-link a:link{background-image:url(objetos/links-menu-bien/hist.png);}
+																									#historia-link a:visited{background-image:url(objetos/links-menu-bien/hist.png);}
+																									#historia-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/histbn.png);}
+																									#historia-link a:active{}
+#geografia-link a{}
+																									#geografia-link a:link{background-image:url(objetos/links-menu-bien/geo.png);}
+																									#geografia-link a:visited{background-image:url(objetos/links-menu-bien/hist.png);}
+																									#geografia-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/geobn.png);}
+																									#geografia-link a:active{}
+#org-social-link a{}
+																									#org-social-link a:link{background-image:url(objetos/links-menu-bien/os.png);}
+																									#org-social-link a:visited{background-image:url(objetos/links-menu-bien/os.png);}
+																									#org-social-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/osbn.png);}
+																									#org-social-link a:active{}
+#gobierno-link a{}
+																									#gobierno-link a:link{background-image:url(objetos/links-menu-bien/gob.png);}
+																									#gobierno-link a:visited{background-image:url(objetos/links-menu-bien/gob.png);}
+																									#gobierno-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/gobbn.png);}
+																									#gobierno-link a:active{}
+#economia-link a{}
+																									#economia-link a:link{background-image:url(objetos/links-menu-bien/eco.png);}
+																									#economia-link a:visited{background-image:url(objetos/links-menu-bien/eco.png);}
+																									#economia-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/ecobn.png);}
+																									#economia-link a:active{}
+#religion-link a{}
+																									#religion-link a:link{background-image:url(objetos/links-menu-bien/rel.png);}
+																									#religion-link a:visited{background-image:url(objetos/links-menu-bien/rel.png);}
+																									#religion-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/relbn.png);}
+																									#religion-link a:active{}
+#pluna-link a{}
+																									#pluna-link a:link{background-image:url(objetos/links-menu-bien/pluna.png);}
+																									#pluna-link a:visited{background-image:url(objetos/links-menu-bien/pluna.png);}
+																									#pluna-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/plunabn.png);}
+																									#pluna-link a:active{}
+#pquetzal-link a{}
+																									#pquetzal-link a:link{background-image:url(objetos/links-menu-bien/pqtz.png);}
+																									#pquetzal-link a:visited{background-image:url(objetos/links-menu-bien/pqtz.png);}
+																									#pquetzal-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/pqtzbn.png);}
+																									#pquetzal-link a:active{}
+#sol-link a{}
+																									#sol-link a:link{background-image:url(objetos/links-menu-bien/psol.png);}
+																									#sol-link a:visited{background-image:url(objetos/links-menu-bien/psol.png);}
+																									#sol-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/psolbn.png);}
+																									#sol-link a:active{}
+#pri-link a{}
+																									#pri-link a:link{background-image:url(objetos/links-menu-bien/pp.png);}
+																									#pri-link a:visited{background-image:url(objetos/links-menu-bien/pp.png);}
+																									#pri-link a:hover {background-color:none;background-image:url(objetos/links-menu-bien/ppbn.png);}
+																									#pri-link a:active{}
+#menu a{color:black;text-decoration:none;display:block;font-size:10.5pt; line-height:115%; font-family:Segoe UI;}
+																									#menu a:link{color:white;}
+																									#menu a:visited{color:white;}
+																									#menu a:hover {color:red;text-decoration:none;background-color:none;font-weight:bold;}
+																									#menu a:active{}
+#pie a{color:black;text-decoration:none;display:block;font-size:12pt; line-height:115%; font-family:Segoe UI;}
+																									#pie a:link{color:black;}
+																									#pie a:visited{color:black;}
+																									#pie a:hover {color:black;text-decoration:none;background-color:none;font-weight:bold;}
+																									#pie a:active{}
