@@ -1,6 +1,21 @@
-# Historia web page project
+# Teotihuacan legacy web project
 
 ![alt text](docs/landing_page.jpeg)
+
+## To run
+
+It's a simple web page, you can open directly the `index.html` page using your browser.
+
+I recommend open this using a local web server, like [npm serve](https://github.com/vercel/serve):
+
+```bash
+# if you don't already have it
+npm i -g serve
+# clone this repo
+git clone https://github.com/JoelHernandez343/teotihuacan-legacy-web-project.git
+# run the local web server using the folder where is the repo
+serve teotihuacan-legacy-web-project
+```
 
 ## Description and background
 
