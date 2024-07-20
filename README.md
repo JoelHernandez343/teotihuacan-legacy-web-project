@@ -1,5 +1,7 @@
 # Historia web page project
 
+![alt text](docs/landing_page.jpeg)
+
 ## Description and background
 
 This was a high shool project (~2013) for the Technology subject that was never graded by my teacher. I don't know why she assigned us this kind of project when we didn't know anything about web development.
