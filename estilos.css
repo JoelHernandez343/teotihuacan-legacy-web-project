@@ -1,56 +1,251 @@
-*{margin:0px;padding:0px;border:0px;}
-body {text-align:center;}
-body {background-image:url(objetos/fondo2.png);}
-p {font-size:11.5pt; line-height:115%; font-family:Segoe UI;text-align:justify;}
-h1 {font-weight:normal;text-align:justify;padding:5px 25px 5px 25px;}
-img {border-style:none;}
-.globalp {width:1000px;margin: auto;}
-.global {width:800px;margin: auto;}
-#cabecera {background-image:url(objetos/Cabecera.png) ;width:1000px;float:left;}
-#antrom {width:300px; float:left;text-align:left;padding:250px 45px 20px 50px;
-			background: rgba(24, 23, 23, 0.4);background-position:center;padding-bottom:30px;}
-			
-.navegacion {height: 80px;float:left;width: 80px;}
-  .navegacion ul {margin-left:0px;}
-  .navegacion li {list-style:none;background-image:url(objetos/alink.png);margin:0px 0px 0px 0px;float:left;}
-#intermedio {background-image:url(objetos/fondo2.png);width:800px; height:15px; float:left;}
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+body {
+    text-align: center;
+}
+body {
+    background-image: url(objetos/fondo2.png);
+}
+p {
+    font-size: 11.5pt;
+    line-height: 115%;
+    font-family: Segoe UI;
+    text-align: justify;
+}
+h1 {
+    font-weight: normal;
+    text-align: justify;
+    padding: 5px 25px 5px 25px;
+}
+img {
+    border-style: none;
+}
+.globalp {
+    width: 1000px;
+    margin: auto;
+}
+.global {
+    width: 800px;
+    margin: auto;
+}
+#cabecera {
+    background-image: url(objetos/Cabecera.png);
+    width: 1000px;
+    float: left;
+}
+#antrom {
+    width: 300px;
+    float: left;
+    text-align: left;
+    padding: 250px 45px 20px 50px;
+    background: rgba(24, 23, 23, 0.4);
+    background-position: center;
+    padding-bottom: 30px;
+}
 
+.navegacion {
+    height: 80px;
+    float: left;
+    width: 80px;
+}
+.navegacion ul {
+    margin-left: 0px;
+}
+.navegacion li {
+    list-style: none;
+    background-image: url(objetos/alink.png);
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
+#intermedio {
+    background-image: url(objetos/fondo2.png);
+    width: 800px;
+    height: 15px;
+    float: left;
+}
 
+#antrom a {
+}
+#antrom a:link {
+}
+#antrom a:visited {
+}
+#antrom a:hover {
+}
+#antrom a:active {
+}
+#menu {
+    width: 150px;
+    float: left;
+    text-align: left;
+    margin: 3px 10px 0px 3px;
+    background-image: url(objetos/enmedio.png);
+    background-position: bottom;
+    padding-bottom: 10px;
+}
+#menu li {
+    list-style: none;
+    margin: 4px 8px 4px 15px;
+}
+#menu h2 {
+    display: block;
+    font-size: 10.5pt;
+    line-height: 115%;
+    font-family: Segoe UI;
+    padding-top: 5px;
+    text-decoration: none;
+    font-size: 12px;
+    background-image: url(objetos/arriba.png);
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.contenido {
+    background-color: none;
+    background-image: url(objetos/fondopage2.png);
+    width: 800px;
+    float: left;
+}
+.contenido p {
+    padding: 5px 30px 5px 30px;
+    text-indent: 15px;
+}
+.contenido h1 {
+    font-size: 24pt;
+    line-height: 115%;
+    font-family: Segoe UI Light;
+}
+.pieborder {
+    float: left;
+    width: 800px;
+    background-image: url(objetos/pieborder.png);
+    height: 40px;
+}
+#pie {
+    height: 230px;
+    background-image: url(objetos/piefondo.png);
+    float: left;
+    width: 200px;
+    background-position: left;
+    text-align: left;
+}
+#pie p {
+    padding: 15px 15px 5px 25px;
+    text-indent: 15px;
+    text-align: left;
+}
+#pie h1 {
+    font-size: 24pt;
+    line-height: 115%;
+    font-family: Segoe UI Light;
+    text-align: left;
+}
+#pie li {
+    list-style: none;
+    margin: 4px 8px 4px 15px;
+    padding: 5px 25px 0px 25px;
+}
 
-#antrom a{}
-																									#antrom a:link{}
-																									#antrom a:visited{}
-																									#antrom a:hover {}
-																									#antrom a:active{}
-#menu {width:150px; float:left;text-align:left;margin:3px 10px 0px 3px;
-			background-image:url(objetos/enmedio.png);background-position:bottom;padding-bottom:10px;}
-			#menu li {list-style:none;margin:4px 8px 4px 15px;}
-			#menu h2 {block;font-size:10.5pt;line-height:115%; font-family:Segoe UI;padding-top:5px;text-decoration:none; font-size:12px;background-image: url(objetos/arriba.png);font-weight:bold;padding:5px 0px 5px 10px;}
-.contenido {background-color:none;background-image:url(objetos/fondopage2.png);width:800px;float:left;}
-  .contenido p {padding:5px 30px 5px 30px;text-indent:15px;}
-	.contenido h1 {font-size:24.0pt; line-height:115%; font-family:Segoe UI Light;}
-.pieborder {float:left;width:800px;background-image:url(objetos/pieborder.png);height:40px;}
-#pie {height:230px;background-image:url(objetos/piefondo.png);float:left;width:200px;background-position:left;text-align:left;}
-  #pie p {height:;padding:15px 15px 5px 25px;text-indent:15px;text-align:left;}
-  #pie h1 {font-size:24.0pt; line-height:115%; font-family:Segoe UI Light;text-align:left;}
-  #pie li {list-style:none;margin:4px 8px 4px 15px;padding:5px 25px 0px 25px;}
-
-#pie2 {height:230px;background-image:url(objetos/piefondo.png);float:left;width:600px;background-position:right;}
-  #pie2 p {padding:10px 100px 0px 200px;text-indent:15px;text-align:justify;font-size:10.5pt;}
-  #pie2 li {list-style:none;margin:4px 8px 4px 15px;padding:5px 25px 0px 25px;}
-.image {text-align:center;background-color:none;height:63px;width:800px; float:left;}
-  .image ul { margin-left: 0px }
-  .image li {float:left;list-style:none;margin:0px 0px 0px 0px;background-image:url(objetos/lupa.png);}
-.image a{height:63px;width:135px;display:block;}
-																									.image a:link{background-image:url(objetos/lupa.png);}
-																									.image a:visited{color:black;background-image:url(objetos/lupa.png);}
-																									.image a:hover {color:red;text-decoration:none;background-color:none;font-weight:bold;background-image:url(objetos/lupabn.png);}
-																									.image a:active{background-color:none;}
-.picture {text-align:center;background-color:none;width:800px; float:left;padding:0px 10px 10px 5px;}
-.inferior {background-color:none;background-image:url(objetos/fondopage3.png);width:800px; float:left;height:30px;background-position:bottom;}
-.superior {background-color:none;background-image:url(objetos/fondopage1.png);width:800px; float:left;height:30px;}
-#titulo {background-image:url(objetos/fondotitulo.png);height:90px;}
-  #titulo h1 {font-size:24.0pt; line-height:115%; font-family:Segoe UI Light;margin:28px 0px 0px 165px;}
-.subtitulo {background-image:url(objetos/fondosubtitulo.png);height:47px;}
-  .subtitulo h1 {font-size:17.0pt; line-height:115%; font-family:Segoe UI Light;margin:5px 0px 0px 30px;}
-#lupa {background-image:url(objetos/fondolupa.png);}
+#pie2 {
+    height: 230px;
+    background-image: url(objetos/piefondo.png);
+    float: left;
+    width: 600px;
+    background-position: right;
+}
+#pie2 p {
+    padding: 10px 100px 0px 200px;
+    text-indent: 15px;
+    text-align: justify;
+    font-size: 10.5pt;
+}
+#pie2 li {
+    list-style: none;
+    margin: 4px 8px 4px 15px;
+    padding: 5px 25px 0px 25px;
+}
+.image {
+    text-align: center;
+    background-color: none;
+    height: 63px;
+    width: 800px;
+    float: left;
+}
+.image ul {
+    margin-left: 0px;
+}
+.image li {
+    float: left;
+    list-style: none;
+    margin: 0px 0px 0px 0px;
+    background-image: url(objetos/lupa.png);
+}
+.image a {
+    height: 63px;
+    width: 135px;
+    display: block;
+}
+.image a:link {
+    background-image: url(objetos/lupa.png);
+}
+.image a:visited {
+    color: black;
+    background-image: url(objetos/lupa.png);
+}
+.image a:hover {
+    color: red;
+    text-decoration: none;
+    background-color: none;
+    font-weight: bold;
+    background-image: url(objetos/lupabn.png);
+}
+.image a:active {
+    background-color: none;
+}
+.picture {
+    text-align: center;
+    background-color: none;
+    width: 800px;
+    float: left;
+    padding: 0px 10px 10px 5px;
+}
+.inferior {
+    background-color: none;
+    background-image: url(objetos/fondopage3.png);
+    width: 800px;
+    float: left;
+    height: 30px;
+    background-position: bottom;
+}
+.superior {
+    background-color: none;
+    background-image: url(objetos/fondopage1.png);
+    width: 800px;
+    float: left;
+    height: 30px;
+}
+#titulo {
+    background-image: url(objetos/fondotitulo.png);
+    height: 90px;
+}
+#titulo h1 {
+    font-size: 24pt;
+    line-height: 115%;
+    font-family: Segoe UI Light;
+    margin: 28px 0px 0px 165px;
+}
+.subtitulo {
+    background-image: url(objetos/fondosubtitulo.png);
+    height: 47px;
+}
+.subtitulo h1 {
+    font-size: 17pt;
+    line-height: 115%;
+    font-family: Segoe UI Light;
+    margin: 5px 0px 0px 30px;
+}
+#lupa {
+    background-image: url(objetos/fondolupa.png);
+}
