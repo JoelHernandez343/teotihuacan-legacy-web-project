@@ -29,5 +29,5 @@ We were like 6 people in the team and I did the whole site alone... yeah, fun ti
 
 ## TODOs
 
--   Correct encoding for all the html files
--   Simplify the image logic
+- [x] Correct encoding for all the html files
+- [ ] Simplify the image logic
