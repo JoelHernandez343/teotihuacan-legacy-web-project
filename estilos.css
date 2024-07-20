@@ -106,6 +106,9 @@ img {
     line-height: 115%;
     font-family: Segoe UI Light;
 }
+.contenido a {
+    text-decoration: none;
+}
 .pieborder {
     float: left;
     width: 800px;
