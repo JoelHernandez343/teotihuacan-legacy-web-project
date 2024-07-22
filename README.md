@@ -29,5 +29,26 @@ We were like 6 people in the team and I did the whole site alone... yeah, fun ti
 
 ## TODOs
 
-- [x] Correct encoding for all the html files
-- [ ] Simplify the image logic
+-   [x] Correct encoding for all the html files
+-   [ ] Simplify the image logic
+
+## Members
+
+### Group
+
+3107
+
+### Team integrated by
+
+| #   | Name                                   |
+| --- | -------------------------------------- |
+| 12  | Joel Harim Hernández Javier            |
+| 13  | Aldo Ángel Hernández Olmos             |
+| 18  | Manuel Mendoza Cano                    |
+| 20  | Cristian Áxel Jesús Octaviano González |
+| 25  | Roberto Ramírez Rosas                  |
+| 35  | Javier Tenorio Camacho                 |
+
+## Written report
+
+[This was the original written report](./written_report.pdf)
