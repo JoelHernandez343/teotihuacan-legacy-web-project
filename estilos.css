@@ -101,6 +101,10 @@ img {
     padding: 5px 30px 5px 30px;
     text-indent: 15px;
 }
+.t_left p {
+    text-align: left;
+}
+
 .contenido h1 {
     font-size: 24pt;
     line-height: 115%;
