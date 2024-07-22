@@ -21,7 +21,7 @@ serve teotihuacan-legacy-web-project
 
 This was a high shool project (~2013) for the Technology subject that was never graded by my teacher. I don't know why she assigned us this kind of project when we didn't know anything about web development.
 
-I was pretty excited because I always wanted to develop a web site and this was my opportunity. I started learning using a site called "Cómo crear tu página web" or something along those lines. ~~I couldn't find the site in 2024 even using the Internet Archive :sob:~~ Update: the site is called [ComoCrearTuWeb.com](comocreartuweb.com), thank you so much [Jorges](https://twitter.com/ComoCrearTuWeb)!
+I was pretty excited because I always wanted to develop a web site and this was my opportunity. I started learning using a site called "Cómo crear tu página web" or something along those lines. ~~I couldn't find the site in 2024 even using the Internet Archive :sob:~~ Update: the site is called [ComoCrearTuWeb.com](https://comocreartuweb.com/antes-de-empezar.html), thank you so much [Jorges](https://twitter.com/ComoCrearTuWeb)!
 
 I think this was my first real web project where I applied everything I'd learn until that day.
 
